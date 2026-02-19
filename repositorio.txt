@@ -1,0 +1,16 @@
+echo "# trabajos-unidad-1--jorge" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jorgealva23/trabajos-unidad-1--jorge.git
+git push -u origin main
+git config --global user.name "Your Name"
+echo "# trabajos-unidad-1--jorge" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jorgealva23/trabajos-unidad-1--jorge.git
+git push -u origin main
+git config --global user.name "Your Name"
