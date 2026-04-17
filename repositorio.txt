@@ -6,3 +6,20 @@ git branch -M main
 git remote add origin https://github.com/jorgealva23/trabajos-unidad-2.git
 git push -u origin main
 git config --global user.name "Your Name"
+echo "# trabajos-unidad-2--jorge" >> README.md
+git init
+git add .
+git commit -m "unidad2practica1.1_jorge"
+git branch -M main
+git remote add origin https://github.com/jorgealva23/trabajos-unidad-2--jorge.git
+git push -u origin main
+git config --global user.name "Your Name"
+echo "# trabajos-unidad-2--jorge" >> README.md
+git init
+git add .
+git commit -m "unidad2practica4.3_jorge"
+git branch -M main
+git remote add origin https://github.com/jorgealva23/trabajos-unidad-2--jorge.git
+git push -u origin main
+git config --global user.name "jorgealva23"
+
